@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const DB_URI ='mongodb+srv://harwinderkaur:harwinderDB123@cluster0.ongfb9h.mongodb.net/test';
+const DB_URI ='mongodb+srv://harwinderkaur:harwinderDB123@cluster0.ongfb9h.mongodb.net/smoothie-data';
 
 const connectDB = async() =>
 {
